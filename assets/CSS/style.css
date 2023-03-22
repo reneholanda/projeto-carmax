@@ -17,7 +17,8 @@ body{
 
 
 .logo {
-    width: 150px;
+    width: 130px;
+    padding: 0 30px;
 }
     
 .header {
@@ -27,3 +28,20 @@ body{
     padding-top: 20px;
 }
     
+a{
+margin: 0;
+font-size: 20px;
+text-decoration: none;
+padding: 10px;
+}
+
+.gps {
+    display: flex;
+
+}
+
+.gps2 {
+width: 20px;
+height: 20px;
+
+}
