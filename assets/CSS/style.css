@@ -4,6 +4,9 @@ body{
     box-sizing: border-box;
 }
 
+
+
+
 .img-background {
     background-image: url(/assets/images/lycg-xl\ \(1\).jpg);
     height: 100vh;
@@ -13,12 +16,13 @@ body{
 }
 
 
-/*.logo {
+.logo {
     width: 150px;
 }
     
-.cima {
+.header {
     display: flex;
+    align-content: center;
     padding: 20px;
     padding-top: 20px;
 }
